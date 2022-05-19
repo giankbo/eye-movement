@@ -1,9 +1,5 @@
-<!-- Under construction
-
 <div align="center" id="top"> 
-  <img src="./images/PacMan5.gif" alt="Pacman Factory" width="600" height="150"/>
-
--->
+  <img src="./images/eyes.png" alt="Eyes Movement" width="600" height="150"/>
 
 &#xa0;
 
