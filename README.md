@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./images/eyes.png" alt="Eyes Movement" width="600" height="150"/>
+  <img src="./images/eyes.gif" alt="Eyes Movement" width="450" height="150"/>
 
 &#xa0;
 
@@ -38,7 +38,8 @@ In this MIT xPRO JavaScript project, the mouse movement event is used to update 
 ## :writing_hand: Features
 
 :heavy_check_mark: The 'eyes' elements update positions,\
-:heavy_check_mark: The 'eyes' elements follow the mouse position on the screen using mouse events.
+:heavy_check_mark: The 'eyes' elements follow the mouse position on the screen using mouse events,\
+:heavy_check_mark: 'Sheep' illustration with HTML and CSS.
 
 ## :white_check_mark: Requirements
 
@@ -55,7 +56,8 @@ $ cd eye-movement
 
 ## :handshake: Credits
 
-<a href="https://xpro.mit.edu/" target="_blank">MIT xPRO</a>
+<a href="https://xpro.mit.edu/" target="_blank">MIT xPRO</a>\
+<a href="https://www.youtube.com/c/CodingArtist" target="_blank">Coding Artist, Mitali Jadhavrao</a>
 
 ## :memo: License
 
