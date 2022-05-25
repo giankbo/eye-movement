@@ -1,4 +1,4 @@
-const balls = document.getElementsByClassName('ball');
+const balls = document.getElementsByClassName('balls');
 
 document.onmousemove = (event) => {
   const x = (event.clientX * 100) / window.innerWidth + '%';
