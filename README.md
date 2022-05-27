@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./images/eyes.gif" alt="Eyes Movement" width="450" height="150"/>
+  <img src="./images/sheep.gif" alt="Eyes Movement" width="450" height="150"/>
 
 &#xa0;
 
