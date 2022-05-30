@@ -20,7 +20,7 @@
 </p>
 
 <p align="center" markdown="1">
-  In this MIT xPRO JavaScript project, the mouse movement event is used to update the position of elements on the page. These elements called 'eyes' simulate the     eye tracking process.
+  In this MIT xPRO JavaScript project, the mouse movement event is used to update the position of elements on the page. These elements called *eyes* simulate the     eye tracking process.
 </p>
 
 <p align="center">
